@@ -74,7 +74,9 @@ section .picture{
         justify-content: center;
         align-items: center;
     }
-
+    .wrapper{
+        width: 70%;
+    }
     header{
         width: 50%;
         margin: 0 auto;
